@@ -5,7 +5,7 @@
 - **Graduate student in cybersecurity with expertise in network security protocols, firewalls, and intrusion detection/prevention systems.**
 - **Proficient in risk assessment, vulnerability management, and implementing effective mitigation strategies.**
 - **Skilled in SIEM tools like Splunk, Snort, Wireshark, Nmap, Burp Suite, Netcat, Metasploit, and Cisco Packet Tracer.**
-- **Hands-on experience in threat detection, network monitoring, network analysis, TCP/IP, OSI model, routing protocols, VLAN configuration.**
+- **Hands-on experience in threat detection, network monitoring, network analysis, TCP/IP, OSI model, routing protocols.**
 
 ## Objective
 
