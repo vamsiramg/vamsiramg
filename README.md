@@ -2,11 +2,10 @@
 
 <a href="https://www.linkedin.com/in/vamsiram-gandham"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- Graduate student in cybersecurity with expertise in network security protocols, firewalls, and intrusion detection/prevention systems.
-- Proficient in risk assessment, identifying vulnerabilities, and implementing effective mitigation strategies.
-- Experienced in vulnerability scanning, result analysis, and remediation recommendations.
-- Skilled in security tools like Splunk, Snort, Wireshark, Nmap, Burp Suite, Netcat, Metasploit, and Cisco Packet Tracer for threat detection and network monitoring.
-- Hands-on experience in network analysis, performance testing, TCP/IP, OSI model, routing protocols, VLAN configuration.
+- **Graduate student in cybersecurity with expertise in network security protocols, firewalls, and intrusion detection/prevention systems.**
+- **Proficient in risk assessment, vulnerability management, and implementing effective mitigation strategies.**
+- **Skilled in SIEM tools like Splunk, Snort, Wireshark, Nmap, Burp Suite, Netcat, Metasploit, and Cisco Packet Tracer.**
+- **Hands-on experience in threat detection, network monitoring, network analysis, TCP/IP, OSI model, routing protocols, VLAN configuration.**
 
 ## Objective
 
